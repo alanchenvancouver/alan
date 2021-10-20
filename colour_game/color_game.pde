@@ -74,10 +74,6 @@ void setup () {
   colors[6] = orange;
 
 
-
-
-
-
   size(800, 600);
 
   mode = intro;
